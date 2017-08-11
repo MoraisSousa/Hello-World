@@ -1,0 +1,33 @@
+Leve 18 pague 15.txt   = Y:\DEPTO SUPORTE\Guilherme Morais\SAMBA\Incidencia\Leve 18 pague 15.txt
+
+Samba
+Guilherme
+Apostila
+Print = Y:\DEPTO SUPORTE\Guilherme Morais\Print
+
+Script - Atalho = Y:\DEPTO SUPORTE\Guilherme Morais\Script
+
+Descrição das Tabelas GWOLAP - Atalho
+T:\DEPTO QUALIDADE\Descrição das tabelas GWOLAP\Descrição das Tabelas GWOLAP.pdf
+
+Samb@Net
+
+Pendencias Samb@Net 
+
+Atendimentos
+
+calc_bloco_m.xlsx = Y:\DEPTO SUPORTE\Guilherme Morais\calc_bloco_m.xlsx
+
+Tabela  Config CST e CFOP - Atalho (2)
+C:\Users\GWSUPORTE\Documents\Tabela  Config CST e CFOP.xls
+
+Calc_Imposto.xlsx
+C:\Users\GWSUPORTE\Desktop\Calc_Imposto.xlsx
+
+
+SPED
+Mensageiro
+Profit
+ISL
+
+Link SPED
